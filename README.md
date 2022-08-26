@@ -9,4 +9,10 @@ db connection using java
    get the data 
    insert the data
    update the data
-   delete the data  as per the password match 
+   delete the data  
+   as per the actions we are doing password and user name match 
+   
+   
+   
+   ===> thank you 
+   ====>voruganti praveen
